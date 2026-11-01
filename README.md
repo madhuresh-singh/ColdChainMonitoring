@@ -1,4 +1,6 @@
-# Hariyali ColdGuard
+# ColdChainMonitoring
+
+## Hariyali ColdGuard
 
 Hariyali ColdGuard is a simulated cold-chain monitoring dashboard for vegetable transport. It models environmental readings, threshold events, offline-first behaviour, and journey visibility without requiring physical IoT devices.
 
